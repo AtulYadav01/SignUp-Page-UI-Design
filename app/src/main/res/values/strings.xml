@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="signup">Signup</string>
+    <string name="logo">logo</string>
+    <string name="LastName">LastName</string>
+    <string name="FirstName">FirstName</string>
+    <string name="e_mail">E-mail</string>
+    <string name="mobilenumber">MobileNumber</string>
+    <string name="password">Password</string>
+</resources>

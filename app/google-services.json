@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142769692062",
+    "firebase_url": "https://task2-1e3e5.firebaseio.com",
+    "project_id": "task2-1e3e5",
+    "storage_bucket": "task2-1e3e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142769692062:android:011aa2b8b7a54eaba20a8f",
+        "android_client_info": {
+          "package_name": "com.atulyadav.task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142769692062-t0rf6rdf6mrkrkhe5innhq3ec861ib7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfyJPBp0Dp7LRB-jmYoJa3fmHJXEsCGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142769692062-t0rf6rdf6mrkrkhe5innhq3ec861ib7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
